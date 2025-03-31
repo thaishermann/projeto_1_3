@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: black;
+    text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+    
+}
+
+p {
+    color: white
+}
+
+header {
+    border-bottom: 1px solid white;
+}
+
+footer {
+    border-top: 1px solid white;
+}
